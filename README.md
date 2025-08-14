@@ -6,7 +6,7 @@ cb-river is an experimental, River-based desktop environment built largely from 
 
 It uses the River Wayland compositor as the foundation, with Bun driving the main processes and C handling low-level Wayland and wlroots protocols. Notifications, menus, panels, and other desktop components will be implemented here.
 
-- [] WLR Roots and Wayland Bindings using bun:ffi
+- [] WLRoots and Wayland Bindings using bun:ffi
 - [] Process state
 - [] Launcher Menu
 - [] Modals
