@@ -1,1 +1,2 @@
-loader = {".c"="file"}
+[loader]
+".c" = "file"
